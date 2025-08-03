@@ -53,7 +53,7 @@ sudo apt update && sudo apt install -y curl wget pup fzf
 
 ## 🖥️ Modo de Uso
 ```bash
-./scripts/downloader.sh
+./scripts/setup.sh
 ```
 
 ### 🧩 Opciones del Menú Principal:
