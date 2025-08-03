@@ -1,6 +1,3 @@
-Aquí tienes una versión mejorada del README con mejor estructuración, diseño más profesional y secciones optimizadas:
-
-```markdown
 # 🚀 elhacker-downloader.sh
 
 [![Bash Version](https://img.shields.io/badge/Bash-4.x%2B-brightgreen)](https://www.gnu.org/software/bash/)
