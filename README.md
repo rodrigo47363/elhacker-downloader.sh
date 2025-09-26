@@ -24,7 +24,7 @@ Herramienta CLI avanzada para descargar cursos y recursos de [elhacker.info](htt
 
 ### Método 1-Línea (Recomendado)
 ```bash
-curl -sL https://raw.githubusercontent.com/rodrigo47363/elhacker-downloader.sh/main/scripts/install.sh | sudo bash
+curl -sL https://raw.githubusercontent.com/rodrigo47363/elhacker-downloader.sh/main/setup.sh | sudo bash
 ```
 
 *Este comando automáticamente:*
