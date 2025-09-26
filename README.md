@@ -46,10 +46,10 @@ cd elhacker-downloader.sh
 sudo ./scripts/install-dependencies.sh
 
 # 4. Dar permisos de ejecución
-chmod +x scripts/downloader.sh
+chmod +x scripts/setup.sh
 
 # 5. Crear acceso directo global
-sudo ln -s $(pwd)/scripts/downloader.sh /usr/local/bin/elhacker-dl
+sudo ln -s $(pwd)/scripts/setup.sh /usr/local/bin/elhacker-dl
 
 # 6. Verificar instalación
 elhacker-dl --version
